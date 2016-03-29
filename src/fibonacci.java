@@ -13,10 +13,6 @@ public class fibonacci {
 		int N = input.nextInt();
 		System.out.println("the first " + N  + " numbers in the fibonacci" +
 				"sequence are as follows");
-		
-		
-		
-
 		for (count = 1;count<= N; count++) { 
 		sum=num1+num2; 
 		num1=num2; 
